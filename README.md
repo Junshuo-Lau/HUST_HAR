@@ -3,6 +3,8 @@
 ## Introduction
 This repository provides the official PyTorch implementation of the method described in the paper: "TRIS-HAR: Transmissive Reconfigurable Intelligent Surfaces-assisted Cognitive Wireless Human Activity Recognition Using State Space Models".
 
+Available at arXiv.
+
 ## Requirements
 1. Install `PyTorch` and `torchvision` (we use `pytorch==2.2.2` and `torchvision==0.17.2`).
 
@@ -22,6 +24,10 @@ The datasets (UT-HAR & NTU-Fi) can be available from Google Drive: [Public datas
 [EfficientFi @ github](https://github.com/NTU-AIoT-Lab/EfficientFi)
 
 Thanks to [Xinyan Chen](https://github.com/xyanchen). We use the functions `UT_HAR_dataset` and `CSI_Dataset` to process UT-HAR and NTU-Fi datasets for training. You can find the functions at [WiFi-CSI-Sensing-Benchmark](https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark).
+
+## Run
+Coming soon
+
 
 ## Reference
 ```
