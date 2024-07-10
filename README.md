@@ -10,11 +10,15 @@ This repository provides the official PyTorch implementation of the method descr
 The datasets (UT-HAR & NTU-Fi) can be available from Google Drive: [Public datasets](https://drive.google.com/drive/folders/14XOGHL0kUGrLw7APDR1QOLNS0Merboql?usp=drive_link).
 
 **UT-HAR**
+
 [A Survey on Behavior Recognition Using WiFi Channel State Information](https://ieeexplore.ieee.org/document/8067693)
+
 [Wifi_Activity_Recognition @ github](https://github.com/ermongroup/Wifi_Activity_Recognition)
 
 **NTU-Fi**
+
 [EfficientFi: Toward Large-Scale Lightweight WiFi Sensing via CSI Compression](https://ieeexplore.ieee.org/document/9667414)
+
 [EfficientFi @ github](https://github.com/NTU-AIoT-Lab/EfficientFi)
 
 Thanks to [Xinyan Chen](https://github.com/xyanchen). We use the functions `UT_HAR_dataset` and `CSI_Dataset` to process UT-HAR and NTU-Fi datasets for training. You can find the functions at [WiFi-CSI-Sensing-Benchmark](https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark).
