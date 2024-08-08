@@ -11,6 +11,8 @@ Available at arXiv.
 ## Datasets
 The datasets (UT-HAR & NTU-Fi) can be available from Google Drive: [Public datasets](https://drive.google.com/drive/folders/14XOGHL0kUGrLw7APDR1QOLNS0Merboql?usp=drive_link).
 
+Our dataset (HUST-HAR) can be available from Google Drive: [HUST-HAR]().
+
 **UT-HAR**
 
 [A Survey on Behavior Recognition Using WiFi Channel State Information](https://ieeexplore.ieee.org/document/8067693)
