@@ -9,9 +9,17 @@ Available at arXiv.
 1. Install `PyTorch` and `torchvision` (we use `pytorch==2.2.2` and `torchvision==0.17.2`).
 
 ## Datasets
-The datasets (UT-HAR & NTU-Fi) can be available from Google Drive: [Public datasets](https://drive.google.com/drive/folders/14XOGHL0kUGrLw7APDR1QOLNS0Merboql?usp=drive_link).
+The public datasets (UT-HAR & NTU-Fi) can be available from Google Drive: [Public datasets](https://drive.google.com/drive/folders/14XOGHL0kUGrLw7APDR1QOLNS0Merboql?usp=drive_link).
 
-Our dataset (HUST-HAR) can be available from Google Drive: [HUST-HAR](https://www.alipan.com/s/8eS2onzZ4Vv).
+Our dataset (HUST-HAR) can be available from China Mobile Drive: [HUST-HAR](https://caiyun.139.com/m/i?165CkGy8W6n4u), password: ahyc.
+
+HUST-HAR includes six activities: lie down, pick up, sit down, stand, stand up, and walk. Each action fold contains six sub-fold (subject 1-6). Each subject repeats 100 times.
+
+For example, standup1.mat is a complex matrix, and the dimension is $270 \times 5000$.
+
+Dimension 270: $3 \times 3 \times 30$, three transmitter antennas, three receiver antennas, 30 subcarriers per antenna pair.
+
+Dimension 5000: a sampling rate of 1000 Hz over a 5-second interval.
 
 **UT-HAR**
 
