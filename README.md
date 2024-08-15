@@ -1,7 +1,7 @@
 # Human Activity Recognition with State Space Models
 
 ## Introduction
-This repository provides the official PyTorch implementation of the method described in the paper: "TRIS-HAR: Transmissive Reconfigurable Intelligent Surfaces-assisted Cognitive Wireless Human Activity Recognition Using State Space Models".
+This repository provides the official PyTorch implementation of the method described in the paper: "TF-Mamba: A Lightweight State Space Model for Wi-Fi-based Human Activity Recognition".
 
 Available at arXiv.
 
