@@ -11,7 +11,7 @@ Available at arXiv.
 ## Datasets
 The public datasets (UT-HAR & NTU-Fi) can be available from Google Drive: [Public datasets](https://drive.google.com/drive/folders/14XOGHL0kUGrLw7APDR1QOLNS0Merboql?usp=drive_link).
 
-Our dataset (HUST-HAR) can be available from China Mobile Drive: [HUST-HAR](https://caiyun.139.com/m/i?165CkGy8W6n4u), password: ahyc.
+Our dataset (HUST-HAR) can be available from China Mobile Drive: [HUST-HAR](https://caiyun.139.com/m/i?165CkGy8W6n4u), password: ahyc. It can be also available from Google Drive: [HUST-HAR-pt](https://drive.google.com/drive/folders/1zISlWYIZAlm0HuXk60p_KGSOPJiYG0WN?usp=sharing).
 
 HUST-HAR includes six activities: lie down, pick up, sit down, stand, stand up, and walk. Each action fold contains six sub-fold (subject 1-6). Each subject repeats 100 times.
 
