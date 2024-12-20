@@ -3,7 +3,7 @@
 ## Introduction
 This repository provides the official PyTorch implementation of the method described in the paper: "TF-Mamba: A Lightweight State Space Model for Wi-Fi-based Human Activity Recognition".
 
-Available at arXiv.
+This paper is accepted by IEEE Sensors Journal. Available at arXiv.
 
 ## Requirements
 1. Install `PyTorch` and `torchvision` (we use `pytorch==2.2.2` and `torchvision==0.17.2`).
